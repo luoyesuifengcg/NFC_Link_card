@@ -1,0 +1,24 @@
+mcu:
+    core:
+    - cortex-a9
+    name:
+    - r7s721001
+    vendor:
+    - renesas
+tool_specific:
+    iar:
+        GBECoreSlave:
+            state:
+            - 37
+        GFPUCoreSlave:
+            state:
+            - 37
+        OGChipSelectEditMenu:
+            state:
+            - R7S721001 Renesas R7S721001
+        OGCoreOrChip:
+            state:
+            - 1
+        Variant:
+            state:
+            - 37

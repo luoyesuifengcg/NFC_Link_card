@@ -1,0 +1,12 @@
+==> 2020-04-18 23:49:17 <==
+# cmd: D:\Libraries\Anaconda\Scripts\conda create --name python27-daplink python=2.7
+# conda version: 4.5.12
++https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free::certifi-2016.2.28-py27_0
++https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free::pip-9.0.1-py27_1
++https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free::python-2.7.13-1
++https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free::setuptools-36.4.0-py27_1
++https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free::vc-9-0
++https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free::vs2008_runtime-9.00.30729.5054-0
++https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free::wheel-0.29.0-py27_0
++https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free::wincertstore-0.2-py27_0
+# update specs: ['python=2.7']

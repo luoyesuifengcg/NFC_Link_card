@@ -1,0 +1,61 @@
+{
+  "arch": "x86_64",
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "constrains": [],
+  "date": "2017-09-05",
+  "depends": [
+    "python 2.7*"
+  ],
+  "extracted_package_dir": "D:\\Libraries\\Anaconda\\pkgs\\wincertstore-0.2-py27_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/wincertstore-0.2-py2.7.egg-info",
+    "Lib/site-packages/wincertstore.py",
+    "Lib/site-packages/wincertstore.pyc"
+  ],
+  "fn": "wincertstore-0.2-py27_0.tar.bz2",
+  "license": "PSF 2",
+  "license_family": "PSF",
+  "link": {
+    "source": "D:\\Libraries\\Anaconda\\pkgs\\wincertstore-0.2-py27_0",
+    "type": 1
+  },
+  "md5": "f6d539949c8afeb7e0f0a6d6a5dc8b4b",
+  "name": "wincertstore",
+  "package_tarball_full_path": "D:\\Libraries\\Anaconda\\pkgs\\wincertstore-0.2-py27_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/wincertstore-0.2-py2.7.egg-info",
+        "path_type": "hardlink",
+        "sha256": "93144d788fa39ec56670ebda46565e24e2ee60e213d4c68b0d81af3877772545",
+        "sha256_in_prefix": "93144d788fa39ec56670ebda46565e24e2ee60e213d4c68b0d81af3877772545",
+        "size_in_bytes": 5785
+      },
+      {
+        "_path": "Lib/site-packages/wincertstore.py",
+        "path_type": "hardlink",
+        "sha256": "9eb1879f68dcdd125eb0ed737ed331f16e335a6a5208ec9f26fd3dd6220cfd08",
+        "sha256_in_prefix": "9eb1879f68dcdd125eb0ed737ed331f16e335a6a5208ec9f26fd3dd6220cfd08",
+        "size_in_bytes": 11873
+      },
+      {
+        "_path": "Lib/site-packages/wincertstore.pyc",
+        "path_type": "hardlink",
+        "sha256": "4b8d4626b22eb5a67104a3352b5f10225837d5437f5e874bdece022de3d6d5bd",
+        "sha256_in_prefix": "4b8d4626b22eb5a67104a3352b5f10225837d5437f5e874bdece022de3d6d5bd",
+        "size_in_bytes": 13141
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 14193,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/wincertstore-0.2-py27_0.tar.bz2",
+  "version": "0.2"
+}

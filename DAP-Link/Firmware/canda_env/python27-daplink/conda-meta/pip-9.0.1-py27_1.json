@@ -1,0 +1,2533 @@
+{
+  "arch": "x86_64",
+  "build": "py27_1",
+  "build_number": 1,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "constrains": [],
+  "date": "2016-12-07",
+  "depends": [
+    "python 2.7*",
+    "setuptools",
+    "wheel"
+  ],
+  "extracted_package_dir": "D:\\Libraries\\Anaconda\\pkgs\\pip-9.0.1-py27_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/pip-9.0.1-py2.7.egg-info/PKG-INFO",
+    "Lib/site-packages/pip-9.0.1-py2.7.egg-info/SOURCES.txt",
+    "Lib/site-packages/pip-9.0.1-py2.7.egg-info/dependency_links.txt",
+    "Lib/site-packages/pip-9.0.1-py2.7.egg-info/entry_points.txt",
+    "Lib/site-packages/pip-9.0.1-py2.7.egg-info/not-zip-safe",
+    "Lib/site-packages/pip-9.0.1-py2.7.egg-info/requires.txt",
+    "Lib/site-packages/pip-9.0.1-py2.7.egg-info/top_level.txt",
+    "Lib/site-packages/pip/__init__.py",
+    "Lib/site-packages/pip/__init__.pyc",
+    "Lib/site-packages/pip/__main__.py",
+    "Lib/site-packages/pip/__main__.pyc",
+    "Lib/site-packages/pip/_vendor/__init__.py",
+    "Lib/site-packages/pip/_vendor/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/appdirs.py",
+    "Lib/site-packages/pip/_vendor/appdirs.pyc",
+    "Lib/site-packages/pip/_vendor/cachecontrol/__init__.py",
+    "Lib/site-packages/pip/_vendor/cachecontrol/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/cachecontrol/_cmd.py",
+    "Lib/site-packages/pip/_vendor/cachecontrol/_cmd.pyc",
+    "Lib/site-packages/pip/_vendor/cachecontrol/adapter.py",
+    "Lib/site-packages/pip/_vendor/cachecontrol/adapter.pyc",
+    "Lib/site-packages/pip/_vendor/cachecontrol/cache.py",
+    "Lib/site-packages/pip/_vendor/cachecontrol/cache.pyc",
+    "Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.py",
+    "Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py",
+    "Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.pyc",
+    "Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py",
+    "Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.pyc",
+    "Lib/site-packages/pip/_vendor/cachecontrol/compat.py",
+    "Lib/site-packages/pip/_vendor/cachecontrol/compat.pyc",
+    "Lib/site-packages/pip/_vendor/cachecontrol/controller.py",
+    "Lib/site-packages/pip/_vendor/cachecontrol/controller.pyc",
+    "Lib/site-packages/pip/_vendor/cachecontrol/filewrapper.py",
+    "Lib/site-packages/pip/_vendor/cachecontrol/filewrapper.pyc",
+    "Lib/site-packages/pip/_vendor/cachecontrol/heuristics.py",
+    "Lib/site-packages/pip/_vendor/cachecontrol/heuristics.pyc",
+    "Lib/site-packages/pip/_vendor/cachecontrol/serialize.py",
+    "Lib/site-packages/pip/_vendor/cachecontrol/serialize.pyc",
+    "Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py",
+    "Lib/site-packages/pip/_vendor/cachecontrol/wrapper.pyc",
+    "Lib/site-packages/pip/_vendor/colorama/__init__.py",
+    "Lib/site-packages/pip/_vendor/colorama/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/colorama/ansi.py",
+    "Lib/site-packages/pip/_vendor/colorama/ansi.pyc",
+    "Lib/site-packages/pip/_vendor/colorama/ansitowin32.py",
+    "Lib/site-packages/pip/_vendor/colorama/ansitowin32.pyc",
+    "Lib/site-packages/pip/_vendor/colorama/initialise.py",
+    "Lib/site-packages/pip/_vendor/colorama/initialise.pyc",
+    "Lib/site-packages/pip/_vendor/colorama/win32.py",
+    "Lib/site-packages/pip/_vendor/colorama/win32.pyc",
+    "Lib/site-packages/pip/_vendor/colorama/winterm.py",
+    "Lib/site-packages/pip/_vendor/colorama/winterm.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/__init__.py",
+    "Lib/site-packages/pip/_vendor/distlib/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/_backport/__init__.py",
+    "Lib/site-packages/pip/_vendor/distlib/_backport/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/_backport/misc.py",
+    "Lib/site-packages/pip/_vendor/distlib/_backport/misc.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/_backport/shutil.py",
+    "Lib/site-packages/pip/_vendor/distlib/_backport/shutil.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg",
+    "Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py",
+    "Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/_backport/tarfile.py",
+    "Lib/site-packages/pip/_vendor/distlib/_backport/tarfile.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/compat.py",
+    "Lib/site-packages/pip/_vendor/distlib/compat.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/database.py",
+    "Lib/site-packages/pip/_vendor/distlib/database.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/index.py",
+    "Lib/site-packages/pip/_vendor/distlib/index.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/locators.py",
+    "Lib/site-packages/pip/_vendor/distlib/locators.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/manifest.py",
+    "Lib/site-packages/pip/_vendor/distlib/manifest.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/markers.py",
+    "Lib/site-packages/pip/_vendor/distlib/markers.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/metadata.py",
+    "Lib/site-packages/pip/_vendor/distlib/metadata.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/resources.py",
+    "Lib/site-packages/pip/_vendor/distlib/resources.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/scripts.py",
+    "Lib/site-packages/pip/_vendor/distlib/scripts.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/t32.exe",
+    "Lib/site-packages/pip/_vendor/distlib/t64.exe",
+    "Lib/site-packages/pip/_vendor/distlib/util.py",
+    "Lib/site-packages/pip/_vendor/distlib/util.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/version.py",
+    "Lib/site-packages/pip/_vendor/distlib/version.pyc",
+    "Lib/site-packages/pip/_vendor/distlib/w32.exe",
+    "Lib/site-packages/pip/_vendor/distlib/w64.exe",
+    "Lib/site-packages/pip/_vendor/distlib/wheel.py",
+    "Lib/site-packages/pip/_vendor/distlib/wheel.pyc",
+    "Lib/site-packages/pip/_vendor/distro.py",
+    "Lib/site-packages/pip/_vendor/distro.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/__init__.py",
+    "Lib/site-packages/pip/_vendor/html5lib/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/_ihatexml.py",
+    "Lib/site-packages/pip/_vendor/html5lib/_ihatexml.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/_inputstream.py",
+    "Lib/site-packages/pip/_vendor/html5lib/_inputstream.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/_tokenizer.py",
+    "Lib/site-packages/pip/_vendor/html5lib/_tokenizer.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/_trie/__init__.py",
+    "Lib/site-packages/pip/_vendor/html5lib/_trie/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/_trie/_base.py",
+    "Lib/site-packages/pip/_vendor/html5lib/_trie/_base.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/_trie/datrie.py",
+    "Lib/site-packages/pip/_vendor/html5lib/_trie/datrie.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/_trie/py.py",
+    "Lib/site-packages/pip/_vendor/html5lib/_trie/py.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/_utils.py",
+    "Lib/site-packages/pip/_vendor/html5lib/_utils.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/constants.py",
+    "Lib/site-packages/pip/_vendor/html5lib/constants.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/__init__.py",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/base.py",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/base.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/lint.py",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/lint.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/optionaltags.py",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/optionaltags.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/sanitizer.py",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/sanitizer.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/whitespace.py",
+    "Lib/site-packages/pip/_vendor/html5lib/filters/whitespace.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/html5parser.py",
+    "Lib/site-packages/pip/_vendor/html5lib/html5parser.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/serializer.py",
+    "Lib/site-packages/pip/_vendor/html5lib/serializer.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treeadapters/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treeadapters/genshi.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treeadapters/sax.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treeadapters/sax.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treebuilders/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treebuilders/base.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treebuilders/base.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treebuilders/dom.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treebuilders/dom.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treewalkers/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treewalkers/base.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treewalkers/base.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treewalkers/dom.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treewalkers/dom.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.pyc",
+    "Lib/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py",
+    "Lib/site-packages/pip/_vendor/html5lib/treewalkers/genshi.pyc",
+    "Lib/site-packages/pip/_vendor/ipaddress.py",
+    "Lib/site-packages/pip/_vendor/ipaddress.pyc",
+    "Lib/site-packages/pip/_vendor/lockfile/__init__.py",
+    "Lib/site-packages/pip/_vendor/lockfile/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/lockfile/linklockfile.py",
+    "Lib/site-packages/pip/_vendor/lockfile/linklockfile.pyc",
+    "Lib/site-packages/pip/_vendor/lockfile/mkdirlockfile.py",
+    "Lib/site-packages/pip/_vendor/lockfile/mkdirlockfile.pyc",
+    "Lib/site-packages/pip/_vendor/lockfile/pidlockfile.py",
+    "Lib/site-packages/pip/_vendor/lockfile/pidlockfile.pyc",
+    "Lib/site-packages/pip/_vendor/lockfile/sqlitelockfile.py",
+    "Lib/site-packages/pip/_vendor/lockfile/sqlitelockfile.pyc",
+    "Lib/site-packages/pip/_vendor/lockfile/symlinklockfile.py",
+    "Lib/site-packages/pip/_vendor/lockfile/symlinklockfile.pyc",
+    "Lib/site-packages/pip/_vendor/ordereddict.py",
+    "Lib/site-packages/pip/_vendor/ordereddict.pyc",
+    "Lib/site-packages/pip/_vendor/packaging/__about__.py",
+    "Lib/site-packages/pip/_vendor/packaging/__about__.pyc",
+    "Lib/site-packages/pip/_vendor/packaging/__init__.py",
+    "Lib/site-packages/pip/_vendor/packaging/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/packaging/_compat.py",
+    "Lib/site-packages/pip/_vendor/packaging/_compat.pyc",
+    "Lib/site-packages/pip/_vendor/packaging/_structures.py",
+    "Lib/site-packages/pip/_vendor/packaging/_structures.pyc",
+    "Lib/site-packages/pip/_vendor/packaging/markers.py",
+    "Lib/site-packages/pip/_vendor/packaging/markers.pyc",
+    "Lib/site-packages/pip/_vendor/packaging/requirements.py",
+    "Lib/site-packages/pip/_vendor/packaging/requirements.pyc",
+    "Lib/site-packages/pip/_vendor/packaging/specifiers.py",
+    "Lib/site-packages/pip/_vendor/packaging/specifiers.pyc",
+    "Lib/site-packages/pip/_vendor/packaging/utils.py",
+    "Lib/site-packages/pip/_vendor/packaging/utils.pyc",
+    "Lib/site-packages/pip/_vendor/packaging/version.py",
+    "Lib/site-packages/pip/_vendor/packaging/version.pyc",
+    "Lib/site-packages/pip/_vendor/pkg_resources/__init__.py",
+    "Lib/site-packages/pip/_vendor/pkg_resources/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/progress/__init__.py",
+    "Lib/site-packages/pip/_vendor/progress/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/progress/bar.py",
+    "Lib/site-packages/pip/_vendor/progress/bar.pyc",
+    "Lib/site-packages/pip/_vendor/progress/counter.py",
+    "Lib/site-packages/pip/_vendor/progress/counter.pyc",
+    "Lib/site-packages/pip/_vendor/progress/helpers.py",
+    "Lib/site-packages/pip/_vendor/progress/helpers.pyc",
+    "Lib/site-packages/pip/_vendor/progress/spinner.py",
+    "Lib/site-packages/pip/_vendor/progress/spinner.pyc",
+    "Lib/site-packages/pip/_vendor/pyparsing.py",
+    "Lib/site-packages/pip/_vendor/pyparsing.pyc",
+    "Lib/site-packages/pip/_vendor/re-vendor.py",
+    "Lib/site-packages/pip/_vendor/re-vendor.pyc",
+    "Lib/site-packages/pip/_vendor/requests/__init__.py",
+    "Lib/site-packages/pip/_vendor/requests/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/requests/adapters.py",
+    "Lib/site-packages/pip/_vendor/requests/adapters.pyc",
+    "Lib/site-packages/pip/_vendor/requests/api.py",
+    "Lib/site-packages/pip/_vendor/requests/api.pyc",
+    "Lib/site-packages/pip/_vendor/requests/auth.py",
+    "Lib/site-packages/pip/_vendor/requests/auth.pyc",
+    "Lib/site-packages/pip/_vendor/requests/cacert.pem",
+    "Lib/site-packages/pip/_vendor/requests/certs.py",
+    "Lib/site-packages/pip/_vendor/requests/certs.pyc",
+    "Lib/site-packages/pip/_vendor/requests/compat.py",
+    "Lib/site-packages/pip/_vendor/requests/compat.pyc",
+    "Lib/site-packages/pip/_vendor/requests/cookies.py",
+    "Lib/site-packages/pip/_vendor/requests/cookies.pyc",
+    "Lib/site-packages/pip/_vendor/requests/exceptions.py",
+    "Lib/site-packages/pip/_vendor/requests/exceptions.pyc",
+    "Lib/site-packages/pip/_vendor/requests/hooks.py",
+    "Lib/site-packages/pip/_vendor/requests/hooks.pyc",
+    "Lib/site-packages/pip/_vendor/requests/models.py",
+    "Lib/site-packages/pip/_vendor/requests/models.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/__init__.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/__init__.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/big5freq.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/big5prober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/chardetect.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/compat.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/compat.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/constants.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/constants.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/escprober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/escprober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/escsm.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/escsm.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/_collections.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/connection.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/connection.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/fields.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/fields.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/filepost.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/request.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/request.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/response.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/response.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/request.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/response.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.pyc",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py",
+    "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/url.pyc",
+    "Lib/site-packages/pip/_vendor/requests/sessions.py",
+    "Lib/site-packages/pip/_vendor/requests/sessions.pyc",
+    "Lib/site-packages/pip/_vendor/requests/status_codes.py",
+    "Lib/site-packages/pip/_vendor/requests/status_codes.pyc",
+    "Lib/site-packages/pip/_vendor/requests/structures.py",
+    "Lib/site-packages/pip/_vendor/requests/structures.pyc",
+    "Lib/site-packages/pip/_vendor/requests/utils.py",
+    "Lib/site-packages/pip/_vendor/requests/utils.pyc",
+    "Lib/site-packages/pip/_vendor/retrying.py",
+    "Lib/site-packages/pip/_vendor/retrying.pyc",
+    "Lib/site-packages/pip/_vendor/six.py",
+    "Lib/site-packages/pip/_vendor/six.pyc",
+    "Lib/site-packages/pip/_vendor/webencodings/__init__.py",
+    "Lib/site-packages/pip/_vendor/webencodings/__init__.pyc",
+    "Lib/site-packages/pip/_vendor/webencodings/labels.py",
+    "Lib/site-packages/pip/_vendor/webencodings/labels.pyc",
+    "Lib/site-packages/pip/_vendor/webencodings/mklabels.py",
+    "Lib/site-packages/pip/_vendor/webencodings/mklabels.pyc",
+    "Lib/site-packages/pip/_vendor/webencodings/tests.py",
+    "Lib/site-packages/pip/_vendor/webencodings/tests.pyc",
+    "Lib/site-packages/pip/_vendor/webencodings/x_user_defined.py",
+    "Lib/site-packages/pip/_vendor/webencodings/x_user_defined.pyc",
+    "Lib/site-packages/pip/basecommand.py",
+    "Lib/site-packages/pip/basecommand.pyc",
+    "Lib/site-packages/pip/baseparser.py",
+    "Lib/site-packages/pip/baseparser.pyc",
+    "Lib/site-packages/pip/cmdoptions.py",
+    "Lib/site-packages/pip/cmdoptions.pyc",
+    "Lib/site-packages/pip/commands/__init__.py",
+    "Lib/site-packages/pip/commands/__init__.pyc",
+    "Lib/site-packages/pip/commands/check.py",
+    "Lib/site-packages/pip/commands/check.pyc",
+    "Lib/site-packages/pip/commands/completion.py",
+    "Lib/site-packages/pip/commands/completion.pyc",
+    "Lib/site-packages/pip/commands/download.py",
+    "Lib/site-packages/pip/commands/download.pyc",
+    "Lib/site-packages/pip/commands/freeze.py",
+    "Lib/site-packages/pip/commands/freeze.pyc",
+    "Lib/site-packages/pip/commands/hash.py",
+    "Lib/site-packages/pip/commands/hash.pyc",
+    "Lib/site-packages/pip/commands/help.py",
+    "Lib/site-packages/pip/commands/help.pyc",
+    "Lib/site-packages/pip/commands/install.py",
+    "Lib/site-packages/pip/commands/install.pyc",
+    "Lib/site-packages/pip/commands/list.py",
+    "Lib/site-packages/pip/commands/list.pyc",
+    "Lib/site-packages/pip/commands/search.py",
+    "Lib/site-packages/pip/commands/search.pyc",
+    "Lib/site-packages/pip/commands/show.py",
+    "Lib/site-packages/pip/commands/show.pyc",
+    "Lib/site-packages/pip/commands/uninstall.py",
+    "Lib/site-packages/pip/commands/uninstall.pyc",
+    "Lib/site-packages/pip/commands/wheel.py",
+    "Lib/site-packages/pip/commands/wheel.pyc",
+    "Lib/site-packages/pip/compat/__init__.py",
+    "Lib/site-packages/pip/compat/__init__.pyc",
+    "Lib/site-packages/pip/compat/dictconfig.py",
+    "Lib/site-packages/pip/compat/dictconfig.pyc",
+    "Lib/site-packages/pip/download.py",
+    "Lib/site-packages/pip/download.pyc",
+    "Lib/site-packages/pip/exceptions.py",
+    "Lib/site-packages/pip/exceptions.pyc",
+    "Lib/site-packages/pip/index.py",
+    "Lib/site-packages/pip/index.pyc",
+    "Lib/site-packages/pip/locations.py",
+    "Lib/site-packages/pip/locations.pyc",
+    "Lib/site-packages/pip/models/__init__.py",
+    "Lib/site-packages/pip/models/__init__.pyc",
+    "Lib/site-packages/pip/models/index.py",
+    "Lib/site-packages/pip/models/index.pyc",
+    "Lib/site-packages/pip/operations/__init__.py",
+    "Lib/site-packages/pip/operations/__init__.pyc",
+    "Lib/site-packages/pip/operations/check.py",
+    "Lib/site-packages/pip/operations/check.pyc",
+    "Lib/site-packages/pip/operations/freeze.py",
+    "Lib/site-packages/pip/operations/freeze.pyc",
+    "Lib/site-packages/pip/pep425tags.py",
+    "Lib/site-packages/pip/pep425tags.pyc",
+    "Lib/site-packages/pip/req/__init__.py",
+    "Lib/site-packages/pip/req/__init__.pyc",
+    "Lib/site-packages/pip/req/req_file.py",
+    "Lib/site-packages/pip/req/req_file.pyc",
+    "Lib/site-packages/pip/req/req_install.py",
+    "Lib/site-packages/pip/req/req_install.pyc",
+    "Lib/site-packages/pip/req/req_set.py",
+    "Lib/site-packages/pip/req/req_set.pyc",
+    "Lib/site-packages/pip/req/req_uninstall.py",
+    "Lib/site-packages/pip/req/req_uninstall.pyc",
+    "Lib/site-packages/pip/status_codes.py",
+    "Lib/site-packages/pip/status_codes.pyc",
+    "Lib/site-packages/pip/utils/__init__.py",
+    "Lib/site-packages/pip/utils/__init__.pyc",
+    "Lib/site-packages/pip/utils/appdirs.py",
+    "Lib/site-packages/pip/utils/appdirs.pyc",
+    "Lib/site-packages/pip/utils/build.py",
+    "Lib/site-packages/pip/utils/build.pyc",
+    "Lib/site-packages/pip/utils/deprecation.py",
+    "Lib/site-packages/pip/utils/deprecation.pyc",
+    "Lib/site-packages/pip/utils/encoding.py",
+    "Lib/site-packages/pip/utils/encoding.pyc",
+    "Lib/site-packages/pip/utils/filesystem.py",
+    "Lib/site-packages/pip/utils/filesystem.pyc",
+    "Lib/site-packages/pip/utils/glibc.py",
+    "Lib/site-packages/pip/utils/glibc.pyc",
+    "Lib/site-packages/pip/utils/hashes.py",
+    "Lib/site-packages/pip/utils/hashes.pyc",
+    "Lib/site-packages/pip/utils/logging.py",
+    "Lib/site-packages/pip/utils/logging.pyc",
+    "Lib/site-packages/pip/utils/outdated.py",
+    "Lib/site-packages/pip/utils/outdated.pyc",
+    "Lib/site-packages/pip/utils/packaging.py",
+    "Lib/site-packages/pip/utils/packaging.pyc",
+    "Lib/site-packages/pip/utils/setuptools_build.py",
+    "Lib/site-packages/pip/utils/setuptools_build.pyc",
+    "Lib/site-packages/pip/utils/ui.py",
+    "Lib/site-packages/pip/utils/ui.pyc",
+    "Lib/site-packages/pip/vcs/__init__.py",
+    "Lib/site-packages/pip/vcs/__init__.pyc",
+    "Lib/site-packages/pip/vcs/bazaar.py",
+    "Lib/site-packages/pip/vcs/bazaar.pyc",
+    "Lib/site-packages/pip/vcs/git.py",
+    "Lib/site-packages/pip/vcs/git.pyc",
+    "Lib/site-packages/pip/vcs/mercurial.py",
+    "Lib/site-packages/pip/vcs/mercurial.pyc",
+    "Lib/site-packages/pip/vcs/subversion.py",
+    "Lib/site-packages/pip/vcs/subversion.pyc",
+    "Lib/site-packages/pip/wheel.py",
+    "Lib/site-packages/pip/wheel.pyc",
+    "Scripts/pip-script.py",
+    "Scripts/pip.exe"
+  ],
+  "fn": "pip-9.0.1-py27_1.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "D:\\Libraries\\Anaconda\\pkgs\\pip-9.0.1-py27_1",
+    "type": 1
+  },
+  "md5": "6ed392c72dff0e65c13393ee808b4de2",
+  "name": "pip",
+  "package_tarball_full_path": "D:\\Libraries\\Anaconda\\pkgs\\pip-9.0.1-py27_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pip-9.0.1-py2.7.egg-info/PKG-INFO",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip-9.0.1-py2.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip-9.0.1-py2.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip-9.0.1-py2.7.egg-info/entry_points.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip-9.0.1-py2.7.egg-info/not-zip-safe",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip-9.0.1-py2.7.egg-info/requires.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip-9.0.1-py2.7.egg-info/top_level.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/__main__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/__main__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/appdirs.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/appdirs.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/_cmd.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/_cmd.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/adapter.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/adapter.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/cache.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/cache.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/compat.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/compat.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/controller.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/controller.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/filewrapper.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/filewrapper.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/heuristics.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/heuristics.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/serialize.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/serialize.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/cachecontrol/wrapper.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/colorama/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/colorama/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/colorama/ansi.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/colorama/ansi.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/colorama/ansitowin32.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/colorama/ansitowin32.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/colorama/initialise.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/colorama/initialise.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/colorama/win32.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/colorama/win32.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/colorama/winterm.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/colorama/winterm.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/_backport/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/_backport/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/_backport/misc.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/_backport/misc.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/_backport/shutil.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/_backport/shutil.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/_backport/tarfile.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/_backport/tarfile.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/compat.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/compat.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/database.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/database.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/index.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/index.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/locators.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/locators.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/manifest.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/manifest.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/markers.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/markers.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/metadata.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/metadata.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/resources.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/resources.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/scripts.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/scripts.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/t32.exe",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/t64.exe",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/util.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/util.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/version.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/version.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/w32.exe",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/w64.exe",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/wheel.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distlib/wheel.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distro.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/distro.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_ihatexml.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_ihatexml.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_inputstream.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_inputstream.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_tokenizer.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_tokenizer.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_trie/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_trie/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_trie/_base.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_trie/_base.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_trie/datrie.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_trie/datrie.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_trie/py.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_trie/py.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_utils.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/_utils.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/constants.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/constants.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/base.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/base.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/lint.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/lint.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/optionaltags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/optionaltags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/sanitizer.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/sanitizer.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/whitespace.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/filters/whitespace.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/html5parser.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/html5parser.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/serializer.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/serializer.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treeadapters/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treeadapters/genshi.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treeadapters/sax.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treeadapters/sax.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treebuilders/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treebuilders/base.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treebuilders/base.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treebuilders/dom.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treebuilders/dom.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treewalkers/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treewalkers/base.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treewalkers/base.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treewalkers/dom.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treewalkers/dom.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/html5lib/treewalkers/genshi.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/ipaddress.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/ipaddress.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/lockfile/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/lockfile/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/lockfile/linklockfile.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/lockfile/linklockfile.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/lockfile/mkdirlockfile.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/lockfile/mkdirlockfile.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/lockfile/pidlockfile.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/lockfile/pidlockfile.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/lockfile/sqlitelockfile.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/lockfile/sqlitelockfile.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/lockfile/symlinklockfile.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/lockfile/symlinklockfile.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/ordereddict.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/ordereddict.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/__about__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/__about__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/_compat.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/_compat.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/_structures.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/_structures.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/markers.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/markers.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/requirements.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/requirements.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/specifiers.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/specifiers.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/utils.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/utils.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/version.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/packaging/version.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/pkg_resources/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/pkg_resources/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/progress/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/progress/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/progress/bar.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/progress/bar.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/progress/counter.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/progress/counter.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/progress/helpers.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/progress/helpers.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/progress/spinner.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/progress/spinner.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/pyparsing.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/pyparsing.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/re-vendor.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/re-vendor.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/adapters.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/adapters.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/api.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/api.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/auth.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/auth.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/cacert.pem",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/certs.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/certs.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/compat.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/compat.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/cookies.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/cookies.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/exceptions.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/exceptions.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/hooks.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/hooks.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/models.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/models.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/big5freq.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/big5prober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/chardetect.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/compat.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/compat.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/constants.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/constants.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/escprober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/escprober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/escsm.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/escsm.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/_collections.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/connection.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/connection.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/fields.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/fields.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/filepost.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/request.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/request.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/response.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/response.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/request.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/response.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/url.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/sessions.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/sessions.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/status_codes.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/status_codes.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/structures.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/structures.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/utils.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/requests/utils.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/retrying.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/retrying.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/six.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/six.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/webencodings/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/webencodings/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/webencodings/labels.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/webencodings/labels.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/webencodings/mklabels.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/webencodings/mklabels.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/webencodings/tests.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/webencodings/tests.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/webencodings/x_user_defined.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/_vendor/webencodings/x_user_defined.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/basecommand.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/basecommand.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/baseparser.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/baseparser.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/cmdoptions.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/cmdoptions.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/check.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/check.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/completion.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/completion.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/download.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/download.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/freeze.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/freeze.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/hash.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/hash.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/help.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/help.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/install.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/install.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/list.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/list.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/search.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/search.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/show.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/show.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/uninstall.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/uninstall.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/wheel.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/commands/wheel.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/compat/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/compat/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/compat/dictconfig.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/compat/dictconfig.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/download.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/download.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/exceptions.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/exceptions.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/index.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/index.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/locations.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/locations.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/models/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/models/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/models/index.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/models/index.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/operations/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/operations/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/operations/check.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/operations/check.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/operations/freeze.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/operations/freeze.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/pep425tags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/pep425tags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/req/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/req/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/req/req_file.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/req/req_file.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/req/req_install.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/req/req_install.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/req/req_set.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/req/req_set.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/req/req_uninstall.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/req/req_uninstall.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/status_codes.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/status_codes.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/appdirs.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/appdirs.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/build.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/build.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/deprecation.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/deprecation.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/encoding.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/encoding.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/filesystem.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/filesystem.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/glibc.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/glibc.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/hashes.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/hashes.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/logging.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/logging.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/outdated.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/outdated.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/packaging.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/packaging.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/setuptools_build.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/setuptools_build.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/ui.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/utils/ui.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/vcs/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/vcs/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/vcs/bazaar.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/vcs/bazaar.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/vcs/git.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/vcs/git.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/vcs/mercurial.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/vcs/mercurial.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/vcs/subversion.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/vcs/subversion.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/wheel.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Lib/site-packages/pip/wheel.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Scripts/pip-script.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Scripts/pip.exe",
+        "path_type": "hardlink"
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 1703297,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/pip-9.0.1-py27_1.tar.bz2",
+  "version": "9.0.1"
+}

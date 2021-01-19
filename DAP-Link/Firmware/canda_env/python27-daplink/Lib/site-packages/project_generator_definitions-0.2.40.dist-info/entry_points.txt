@@ -1,0 +1,3 @@
+[console_scripts]
+progendef = project_generator_definitions.main:main
+

@@ -1,0 +1,47 @@
+mcu:
+    vendor:
+        - st
+    name:
+        - stm32l053x8
+    core:
+        - cortex-m0
+tool_specific:
+    iar:
+        OGChipSelectEditMenu:
+          state:
+          - STM32L053x8 ST STM32L053x8
+        OGCoreOrChip:
+          state:
+          - 1
+    uvision:
+        TargetOption:
+            Cpu:
+            - IRAM(0x20000000-0x20001FFF) IROM(0x8000000-0x800FFFF) CLOCK(8000000) CPUTYPE("Cortex-M0+")
+            Device:
+            - STM32L053R8
+            DeviceId:
+            - 0
+            FlashDriverDll:
+            - ULP2CM3(-O207 -S8 -C0 -FO7 -FD20000000 -F2000 -FN1 -FF0STM32L0xx_64 -FS08000000 -FL020000)
+            SFDFile:
+            - null
+            Vendor:
+            - STMicroelectronics
+    uvision5:
+        TargetOption:
+            Cpu:
+            - IRAM(0x20000000,0x00002000) IROM(0x08000000,0x00010000) CPUTYPE("Cortex-M0+") CLOCK(8000000) ELITTLE
+            Device:
+            - STM32L053R8Hx
+            DeviceId:
+            - null
+            FlashDriverDll:
+            - UL2CM3(-S0 -C0 -P0 -FD20000000 -FC1000 -FN1 -FF0STM32L0xx_64 -FS08000000 -FL010000 -FP0($$Device:STM32L053R8Hx$Flash\STM32L0xx_64.FLM))
+            PackID:
+            - Keil.STM32L0xx_DFP.1.5.0
+            SFDFile:
+            - $$Device:STM32L053R8Hx$SVD\STM32L053x.svd
+            RegisterFile:
+            - $$Device:STM32L053R8Hx$Device\Include\stm32l0xx.h
+            Vendor:
+            - STMicroelectronics

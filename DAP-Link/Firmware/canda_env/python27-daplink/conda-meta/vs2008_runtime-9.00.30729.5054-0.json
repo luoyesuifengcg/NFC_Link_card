@@ -1,0 +1,74 @@
+{
+  "arch": "x86_64",
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "constrains": [],
+  "date": "2016-12-01",
+  "depends": [],
+  "extracted_package_dir": "D:\\Libraries\\Anaconda\\pkgs\\vs2008_runtime-9.00.30729.5054-0",
+  "features": "",
+  "files": [
+    "Library/bin/msvcm90.dll",
+    "Library/bin/msvcp90.dll",
+    "Library/bin/msvcr90.dll",
+    "Library/bin/vcomp90.dll",
+    "msvcm90.dll",
+    "msvcp90.dll",
+    "msvcr90.dll",
+    "vcomp90.dll"
+  ],
+  "fn": "vs2008_runtime-9.00.30729.5054-0.tar.bz2",
+  "license": "Proprietary",
+  "link": {
+    "source": "D:\\Libraries\\Anaconda\\pkgs\\vs2008_runtime-9.00.30729.5054-0",
+    "type": 1
+  },
+  "md5": "40c9be31496c2e34ebb4c61d1895fb64",
+  "name": "vs2008_runtime",
+  "package_tarball_full_path": "D:\\Libraries\\Anaconda\\pkgs\\vs2008_runtime-9.00.30729.5054-0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/msvcm90.dll",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Library/bin/msvcp90.dll",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Library/bin/msvcr90.dll",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Library/bin/vcomp90.dll",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "msvcm90.dll",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "msvcp90.dll",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "msvcr90.dll",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "vcomp90.dll",
+        "path_type": "hardlink"
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 1040779,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/vs2008_runtime-9.00.30729.5054-0.tar.bz2",
+  "version": "9.00.30729.5054"
+}
